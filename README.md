@@ -1,5 +1,3 @@
 # Typing Effect
 
-This file produces self writing and deleting text effect.
-
-### Output
+This javascript file produces self writing and deleting text effect.
